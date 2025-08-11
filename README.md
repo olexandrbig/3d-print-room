@@ -41,28 +41,28 @@
 | # | Позиція | К-ть | Ціна за шт., ₴ | Підсумок, ₴ | Посилання |
 |---|---|---:|---:|---:|---|
 | 1 | Фотополімерний 3D-принтер (Elegoo Mars 4 9K / аналог) | 1 | 12833 | 12833 | https://rozetka.com.ua/ua/3d-ustroystva-i-aksessuari/c4672483/producer=elegoo/ |
-| 2 | Мийка + УФ-сушка (Anycubic Wash & Cure 3 / аналог) | 1 | 8546 | 8546 | https://rozetka.com.ua/ua/3d_printers/c1593467/producer=anycubic/ |
+| 2 | Мийка + УФ-сушка (Anycubic Wash & Cure 3 / аналог) | 1 | 8546 | 8546 | https://rozetka.com.ua/ua/search/?text=Anycubic%20Wash%20%26%20Cure%203 |
 | 3 | Смола фотополімерна 1 кг (нейтральна/сіра) | 2 | 1200 | 2400 | https://rozetka.com.ua/ua/355724820/p355724820/ |
-| 4 | Ізопропіловий спирт 99.9% (каністра 5 л) | 1 | 900 | 900 | https://rozetka.com.ua/ua/485942986/p485942986/ |
-| 5 | Рукавички нітрилові, 100 шт (L/XL) | 2 | 300 | 600 | https://rozetka.com.ua/ua/nitrile_gloves/c4660251/ |
-| 6 | Окуляри захисні прозорі | 1 | 120 | 120 | https://rozetka.com.ua/ua/ochki_zashitnie/c4628170/ |
-| 7 | Респіратор 3M 6200 (півмаска) | 1 | 1200 | 1200 | https://rozetka.com.ua/ua/3m-6200/p207102984/ |
-| 8 | Картриджі 3M 6051 A1 (органічні пари), пара | 1 | 800 | 800 | https://rozetka.com.ua/ua/3m-6051/p207102993/ |
-| 9 | Силіконовий килимок для смоли (≈40×30 см) | 2 | 200 | 400 | https://rozetka.com.ua/ua/373286932/p373286932/ |
+| 4 | Ізопропіловий спирт 99.9% (каністра 5 л) | 1 | 900 | 900 | https://rozetka.com.ua/ua/328912210/p328912210/ |
+| 5 | Рукавички нітрилові, 100 шт (L/XL) | 2 | 300 | 600 | https://apteka.rozetka.com.ua/ua/458615314/p458615314/ |
+| 6 | Окуляри захисні прозорі | 1 | 120 | 120 | https://rozetka.com.ua/ua/search/?text=%D0%9E%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%B8%20%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D0%BD%D1%96%20%D0%BF%D1%80%D0%BE%D0%B7%D0%BE%D1%80%D1%96 |
+| 7 | Респіратор 3M 6200 (півмаска) | 1 | 1200 | 1200 | https://rozetka.com.ua/ua/search/?text=%D0%A0%D0%B5%D1%81%D0%BF%D1%96%D1%80%D0%B0%D1%82%D0%BE%D1%80%203M%206200&section_id=2798842&redirected=1 |
+| 8 | Картриджі 3M 6051 A1 (органічні пари), пара | 1 | 800 | 800 | https://rozetka.com.ua/ua/search/?text=%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D1%96%203M%206051%20A1 |
+| 9 | Силіконовий килимок для смоли (≈40×30 см) | 2 | 200 | 400 | https://rozetka.com.ua/ua/search/?text=%D0%A1%D0%B8%D0%BB%D1%96%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9%20%D0%BA%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BA%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BC%D0%BE%D0%BB%D0%B8 |
 | 10 | Мірний стакан 500 мл (PP) | 2 | 79 | 158 | https://rozetka.com.ua/ua/325250512/p325250512/ |
-| 11 | Лоток нержавіючий GN 1/1 (≈530×325 мм) | 1 | 620 | 620 | https://rozetka.com.ua/ua/478662739/p478662739/ |
+| 11 | Лоток нержавіючий GN 1/1 (≈530×325 мм) | 1 | 620 | 620 | https://rozetka.com.ua/ua/362274603/p362274603/ |
 | 12 | Осушувач повітря ~10 л/добу | 1 | 6000 | 6000 | https://rozetka.com.ua/ua/389043636/p389043636/ |
 | 13 | Електроконвектор 1.5 кВт з термостатом | 1 | 2400 | 2400 | https://bt.rozetka.com.ua/ua/259628876/p259628876/ |
 | 14 | Вогнегасник CO₂ ВВК-2 (2 кг) | 1 | 1350 | 1350 | https://epicentrk.ua/ua/shop/vohnehasnyk-vuhlekyslotnyi-poputchik-vvk-2-ou-3.html |
 | 15 | Канальний вентилятор 100 мм (Domovent VK 100 / аналог) | 1 | 2562 | 2562 | https://build.rozetka.com.ua/ua/vytyajnye-ventilyatory/c3730584/99355=539564/ |
 | 16 | Повітропровід алюмінієвий гофр. Ø100, 3 м | 1 | 239 | 239 | https://epicentrk.ua/ua/shop/vozdukhovod-2095-alyuvent-n-100-3.html |
 | 17 | Решітка вентиляційна з фланцем Ø100 мм | 1 | 166 | 166 | https://epicentrk.ua/ua/shop/mplc-resitka-ventilacijna-dospel-d-14-ow-z-flancem-100-mm-1f06d37e-9d70-6c32-8957-d95b32b8a0f8.html |
-| 18 | Стільниця 3000×600 мм (робоча поверхня) | 1 | 2979 | 2979 | https://epicentrk.ua/ua/shop/plita-stoleshnitsy-3000h600h38-mm-kantri-411.html |
-| 19 | Опори/ніжки металеві 710 мм (T‑образні) | 6 | 399 | 2394 | https://epicentrk.ua/ua/shop/nostaika-krash-a169-7120g-710h710h60h590-mm.html |
-| 20 | Стелаж металевий 180×90×40 см | 2 | 1999 | 3998 | https://epicentrk.ua/ua/shop/stelazh-metalicheskiy-1800kh900kh400-silver.html |
-| 21 | Подовжувач із захистом/автоматом (8 гнізд) | 1 | 900 | 900 | https://epicentrk.ua/ua/shop/podovzhuvachi-i-perehidniki/ |
+| 18 | Стільниця 3000×600 мм (робоча поверхня) | 1 | 2979 | 2979 | https://epicentrk.ua/ua/shop/stoleshnitsy-dlya-kukhni/ |
+| 19 | Опори/ніжки металеві 710 мм (T‑образні) | 6 | 399 | 2394 | https://epicentrk.ua/ua/search/?q=%D0%9E%D0%BF%D0%BE%D1%80%D0%B8%2F%D0%BD%D1%96%D0%B6%D0%BA%D0%B8%20%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%B5%D0%B2%D1%96%20710%20%D0%BC%D0%BC |
+| 20 | Стелаж металевий 180×90×40 см | 2 | 1999 | 3998 | https://epicentrk.ua/ua/shop/stellazhi-dlya-khraneniya/fs/material-karkasa-metall/ |
+| 21 | Подовжувач із захистом/автоматом (8 гнізд) | 1 | 900 | 900 | https://epicentrk.ua/ua/shop/udliniteli-i-razvetviteli/ |
 | 22 | Плівка на вікна з УФ‑захистом (0.61×3 м) | 3 | 374 | 1122 | https://epicentrk.ua/ua/shop/plivka-samokleika-na-vikno-z-uf-zakhystom-0-61x3-m.html |
-| 23 | Рулонна штора blackout ~200×200 см | 1 | 1500 | 1500 | https://rozetka.com.ua/ua/111708640/c111708640/ |
+| 23 | Рулонна штора blackout ~200×200 см | 1 | 1500 | 1500 | https://rozetka.com.ua/ua/search/?text=%D0%A0%D1%83%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0%20%D1%88%D1%82%D0%BE%D1%80%D0%B0%20blackout&section_id=4627673&redirected=1 |
 | 24 | Закритий бак/відро для відходів 30 л (кришка/педаль) | 2 | 900 | 1800 | https://epicentrk.ua/ua/shop/mplc-vidro-dla-smitta-mvm-bin-01-z-kriskou-ta-pedallu-30-l-antracit-bin-01-30l-anthracite-1ee94475-9dd6-65f6-95fb-b79da706b083.html |
 | 25 | Металева каністра 5 л (для відпрацьованого IPA/смоли) | 1 | 600 | 600 | https://rozetka.com.ua/ua/393762732/p393762732/ |
 

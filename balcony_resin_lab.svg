@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" font-family="Inter, Arial, sans-serif" font-size="12">
+  <!-- Outer room -->
+  <rect x="0" y="0" width="800" height="400" fill="white" stroke="black" stroke-width="2"/>
+  <!-- Bench (top wall) -->
+  <rect x="0" y="0" width="800" height="120" fill="#e8eefb" stroke="#2c3e50" stroke-width="1"/>
+  <text x="590" y="112">600 mm deep workbench</text>
+
+  <!-- Opposite shallow shelving (bottom wall) -->
+  <rect x="0" y="340" width="800" height="60" fill="#f0f0f0" stroke="#2c3e50" stroke-width="1"/>
+  <text x="560" y="392">300 mm deep storage shelves</text>
+
+  <!-- Aisle label -->
+  <text x="640" y="140">Aisle 1.1 m</text>
+
+  <!-- Printer enclosure zone -->
+  <rect x="40" y="6" width="160" height="108" fill="#d7f5e2" stroke="#2c3e50" stroke-width="1"/>
+  <text x="46" y="110">Printer enclosure (0.8 m)</text>
+
+  <!-- Wash & cure zone -->
+  <rect x="200" y="6" width="140" height="108" fill="#fff4d6" stroke="#2c3e50" stroke-width="1"/>
+  <text x="206" y="110">Wash &amp; Cure (0.7 m)</text>
+
+  <!-- Finishing / prep zone -->
+  <rect x="340" y="6" width="454" height="108" fill="#eae9ff" stroke="#2c3e50" stroke-width="1"/>
+  <text x="346" y="110">Finishing / Prep</text>
+
+  <!-- Ventilation: 100 mm duct at top-left above printer -->
+  <circle cx="50" cy="10" r="8" fill="#cccccc" stroke="#2c3e50" stroke-width="1"/>
+  <text x="64" y="16">100 mm duct to outside (inline fan + carbon)</text>
+
+  <!-- Windows along bottom wall -->
+  <rect x="0" y="380" width="800" height="20" fill="#d6f0ff" stroke="#2c3e50" stroke-width="1"/>
+  <text x="10" y="374">Panoramic windows → add UV film + blackout roller</text>
+
+  <!-- Entrance (assumed at left short side) -->
+  <rect x="0" y="160" width="12" height="60" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <text x="16" y="170">Entrance</text>
+
+  <!-- Dimensions -->
+  <line x1="0" y1="410" x2="800" y2="410" stroke="black" stroke-width="1"/>
+  <text x="370.0" y="428">4.0 m</text>
+  <line x1="810" y1="0" x2="810" y2="400" stroke="black" stroke-width="1"/>
+  <text x="816" y="200.0">2.0 m</text>
+</svg>
